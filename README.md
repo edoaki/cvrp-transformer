@@ -98,16 +98,6 @@ python inference.py
 0 - 2 - 1 - 3 - 0
 ```
 
----
-
-## カスタマイズ例
-
-* 複数インスタンスをまとめて推論したい → `inference.py` にループを追加
-* 確率的サンプリングで解を多様に取りたい → `torch.argmax` 部分を `torch.multinomial` に変更
-* 実データ CSV/JSON から読み込みたい → `CVRPDataset` をカスタム実装
-
----
-
 ## ライセンス
 
 MIT License
