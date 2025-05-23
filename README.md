@@ -45,12 +45,6 @@
 - PyTorch 1.12 以上
 - CUDA（GPU を使う場合。CPU 実行も可能）
 
-### requirements.txt の例
-
-```text
-torch>=1.12.0
-numpy>=1.19.0
-tqdm
 ````
 
 GPU 版 CUDA サポート付き PyTorch を入れる場合は，
