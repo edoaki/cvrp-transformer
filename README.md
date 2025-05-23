@@ -1,4 +1,4 @@
-```markdown
+
 # CVRP-RL: Transformer ベース強化学習による CVRP ソルバー
 
 本リポジトリは，論文 [Attention, Learn to Solve Routing Problems!](https://arxiv.org/abs/1803.08475) の手法をベースに，**CVRP**（Capacitated Vehicle Routing Problem）を Transformer 構造＋REINFORCE で解くための最小構成実装です。
