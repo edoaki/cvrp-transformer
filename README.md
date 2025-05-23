@@ -45,8 +45,6 @@
 - PyTorch 1.12 以上
 - CUDA（GPU を使う場合。CPU 実行も可能）
 
-````
-
 GPU 版 CUDA サポート付き PyTorch を入れる場合は，
 公式サイトのコマンド例を参照してください：
 [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
