@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 仮想環境（Anaconda, venv など）
+env/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ログ・出力
+*.log
+
+# モデルやチェックポイント
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# OSごとのファイル
+.DS_Store
+Thumbs.db
+
+# GitHub Codespaces
+*.code-workspace
+
+# バックアップファイル
+*~
+
